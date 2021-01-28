@@ -70,6 +70,8 @@ Eğer objenin içeriğinin değiştirilmesini istemiyorsak örnekteki gibi objey
 Object.freeze(computer); //Artık objenin içeriğini değiştiremeyiz.
 ```
 
+> **Ek bilgi** => JavaScript'te her kelimeyi değişken olarak tanımlayamayız. Bazı kelimeler dilin kendi yapısında kullanıldığı için dil tarafından **reserved** olmuştur. Değişken tanımlarken kullanmamanız gereken **reserved** kelimeler bu linkte: https://www.w3schools.com/js/js_reserved.asp
+
 ### Temel Farklar
 
 > **var** ile tanımlanan bir değişkeni redeclare edebiliriz ama **let** ve **const** ile tanımlanan bir değişkeni redeclare edemeyiz.
