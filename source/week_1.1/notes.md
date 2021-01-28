@@ -70,3 +70,4 @@ Teklif bu aşamada bir sonraki gelecek olan ECMAScript sürümüne dahil edilmey
 
 - https://medium.com/@bilgedemirkaya/ecma-ecmascript-tc39-nedir-javascript-nas%C4%B1l-ortaya-%C3%A7%C4%B1kt%C4%B1-3ebb3b9a87ea
 - https://dev.to/gethackteam/5-ecmascript-proposals-to-look-out-for-in-es2020-36hp#:~:text=The%20ECMAScript%20Process,interested%20in%20exploring%20solutions%20for.
+- https://medium.com/mol42/derinlemesine-javascript-javascript-motoru-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-c129b49f089c

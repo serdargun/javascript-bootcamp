@@ -17,3 +17,5 @@ Dersler, **23 Ocak - 28 Şubat 2021** tarihleri arasında her hafta sonu Cumarte
 > Temel Materyaller: https://github.com/81-javascript-bootcamp
 
 Eğitmenimiz [_Mehmet Yurtar_](https://github.com/yurtarmehmet)'a, [_Kodluyoruz_](https://www.kodluyoruz.org/)'a ve [_Atölye15_](https://www.atolye15.com/)'e teşekkürler...
+
+![Bootcamp](/source/main.jpg)
