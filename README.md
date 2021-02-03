@@ -8,6 +8,10 @@ _Kodluyoruz ve Atölye15'in iş birliğiyle düzenlenen JavaScript Bootcamp notl
 
   - [Pazar](/source/week_1.2/notes.md)
 
+- Hafta-2
+
+  - [Cumartesi](/source/week_2.1/notes.md)
+
 ## **Bootcamp hakkında**:
 
 **Süre**: Bootcamp toplam 60 saat sürecek.
