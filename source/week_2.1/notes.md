@@ -12,7 +12,7 @@ Bir JavaScript uygulamasını başlattığımızda hiçbir kod yazmasak dahi Jav
 
 > **window** objesine _this_ keyword'ü ile ulaşabiliriz.
 
-![Global Execution Context](/source/week_2.1/img/1.png)
+![Global Execution Context](/source/week_2.1/img/1.PNG)
 
 ### Functional Execution Context
 
@@ -34,7 +34,7 @@ getUser();
 
 Yukarıdaki kod parçasını çalıştırdığımızda _getUser_ fonksiyonuna ait bir execution context oluşturulur ve fonksiyonun çalışması bittiğinde fonksiyona ait olan execution context, stack'ten çıkar.
 
-![Functional Execution Context](/source/week_2.1/img/2.png)
+![Functional Execution Context](/source/week_2.1/img/2.PNG)
 
 > Fonksiyonlar _Execution Stack_'e diğer adıyla _Callstack_'e toplanırlar ve işleri bittikten sonra çıkarlar. Stack'ler _LIFO_ yani Last In First Out mantığıyla çalıştığı için son giren fonksiyon ilk çıkacaktır.
 
@@ -196,7 +196,7 @@ count = count + add5(2); // 7 döndürülür.
 
 Yukarıdaki kod parçasında _makeAdder_ fonksiyonu bir fonksiyon return etmiştir. Return edilen bu _inner function_ bir üst scope'undaki **x** değişkenine erişebilir. Normalde bir fonksiyon çağrıldığında o fonksiyona ait bir _execution context_ oluşturulur ve _callstack_'e push edilir. Fonksiyonun işi bittiğinde stack'ten çıkar. _Closure_ fonksiyonlarda ise bir _Closure Scope_ oluşturulur. Yukarıdaki örnekte _makeAdder_ fonksiyonu için bir _Closure Scope_ oluşturulmuştur. Inner function için _Closure Scope_ içinde ayrı bir _Execution Context_ oluşturulmuştur. Bu sayede inner function, _Closure Scope_'taki herhangi bir değişkene erişebilmektedir.
 
-![Closure](/source/week_2.1/img/closure.png)
+![Closure](/source/week_2.1/img/closure.PNG)
 
 ### Döngü İçinde Closure Yapılar
 
