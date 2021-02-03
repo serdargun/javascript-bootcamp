@@ -11,6 +11,7 @@ _Kodluyoruz ve Atölye15'in iş birliğiyle düzenlenen JavaScript Bootcamp notl
 - Hafta-2
 
   - [Cumartesi](/source/week_2.1/notes.md)
+  - [Pazar](/source/week_2.2/notes.md)
 
 ## **Bootcamp hakkında**:
 
